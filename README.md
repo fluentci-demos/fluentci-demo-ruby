@@ -1,5 +1,7 @@
 # FluentCI CI/CD demo for Ruby
 
+[![ci](https://github.com/fluentci-demos/fluentci-demo-ruby/actions/workflows/ci.yml/badge.svg)](https://github.com/fluentci-demos/fluentci-demo-ruby/actions/workflows/ci.yml)
+
 This is an example application and CI/CD pipeline showing how to build, test a Ruby microservice using FluentCI.
 
 Ingredients:
