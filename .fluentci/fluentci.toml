@@ -1,0 +1,3 @@
+[[steps]]
+name = "Run tests"
+command = ["fluentci run --wasm ruby bundle_exec rspec"]
